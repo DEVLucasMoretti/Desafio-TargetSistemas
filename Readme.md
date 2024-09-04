@@ -1,3 +1,3 @@
 <h2>Desafio Concluído</h2>
 
-![imagem](./Desafio-3-4-5/assets/img2.png)
+![img2](https://github.com/user-attachments/assets/2fb59382-b43a-48b9-8800-5aa4ab26c879)
