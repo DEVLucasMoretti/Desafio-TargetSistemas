@@ -1,0 +1,14 @@
+C:\GitHub\Desafio-TargetSistemas\bin\Debug\net8.0\Desafio-TargetSistemas.exe
+C:\GitHub\Desafio-TargetSistemas\bin\Debug\net8.0\Desafio-TargetSistemas.deps.json
+C:\GitHub\Desafio-TargetSistemas\bin\Debug\net8.0\Desafio-TargetSistemas.runtimeconfig.json
+C:\GitHub\Desafio-TargetSistemas\bin\Debug\net8.0\Desafio-TargetSistemas.dll
+C:\GitHub\Desafio-TargetSistemas\bin\Debug\net8.0\Desafio-TargetSistemas.pdb
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\Desafio-TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\Desafio-TargetSistemas.AssemblyInfoInputs.cache
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\Desafio-TargetSistemas.AssemblyInfo.cs
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\Desafio-TargetSistemas.csproj.CoreCompileInputs.cache
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\Desafio-TargetSistemas.dll
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\refint\Desafio-TargetSistemas.dll
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\Desafio-TargetSistemas.pdb
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\Desafio-TargetSistemas.genruntimeconfig.cache
+C:\GitHub\Desafio-TargetSistemas\obj\Debug\net8.0\ref\Desafio-TargetSistemas.dll
